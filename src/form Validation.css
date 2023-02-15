@@ -1,0 +1,10 @@
+.input-group span{
+    position: absolute;
+    bottom: 12px;
+    right: 17px;
+    font-size: 12px;
+    color: red;
+}
+#subit-error{
+    color: red;
+}
